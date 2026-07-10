@@ -8,18 +8,7 @@ Aspiring Software Engineer | Full Stack Developer | AI Enthusiast
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Java+Developer;Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Things" />
 </p>
 
----
 
-## 👩‍💻 About Me
-
-- 🎓 Information Science Engineering Student
-- 💻 Passionate about Full Stack Development
-- ☁️ Learning AWS & Cloud Technologies
-- 🤖 Exploring Artificial Intelligence
-- 📚 Solving DSA in Java
-- 🚀 Love building real-world applications
-
----
 
 ## 🚀 Tech Stack
 
@@ -33,32 +22,12 @@ Aspiring Software Engineer | Full Stack Developer | AI Enthusiast
 
 
 
----
-
-## 📌 Featured Projects
-
-### 🏥 SympCheck
-
-Healthcare triage platform powered by AI.
-
-### 🛒 Inclusive Voice-First E-Commerce
-
-Voice enabled multilingual shopping platform.
-
-### 🤖 Canara InfoMate Bot
-
-AI chatbot for college information.
-
----
-
-
----
-
 
 
 
 
 ---
+
 
 ## 📫 Connect with Me
 
