@@ -31,14 +31,7 @@ Aspiring Software Engineer | Full Stack Developer | AI Enthusiast
 
 ---
 
-## 🌱 Currently Learning
 
-- Java
-- Data Structures & Algorithms
-- System Design
-- AWS
-- React
-- Node.js
 
 ---
 
@@ -58,45 +51,12 @@ AI chatbot for college information.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bhoomika_upadhyaya&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomika_upadhyaya&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Bhoomika_upadhyaya&theme=github-dark-blue&hide_border=true"/>
 
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bhoomika_upadhyaya&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhoomika_upadhyaya&theme=github-dark"/>
-
-</p>
 
 ---
 
@@ -116,6 +76,5 @@ AI chatbot for college information.
 
 ---
 
-## 💡 Quote
 
 > "Code. Learn. Build. Repeat."
