@@ -43,7 +43,4 @@ Aspiring Software Engineer | Java | Full-Stack Development
 
 </p>
 
----
-
-
 > "Code. Learn. Build. Repeat."
