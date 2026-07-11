@@ -10,7 +10,7 @@ Aspiring Software Engineer | Java | Full-Stack Development
 
 
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
 
