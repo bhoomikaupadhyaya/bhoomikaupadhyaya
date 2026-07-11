@@ -29,7 +29,7 @@ Aspiring Software Engineer | Java | Full-Stack Development
 
 
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p align="center">
 
