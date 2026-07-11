@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhoomika Upadhyaya</h1>
 
 <h3 align="center">
-Aspiring Software Engineer | Full Stack Developer | AI Enthusiast
+Aspiring Software Engineer | Java | Full-Stack Development
 </h3>
 
 <p align="center">
@@ -26,7 +26,7 @@ Aspiring Software Engineer | Full Stack Developer | AI Enthusiast
 
 
 
----
+
 
 
 ## 📫 Connect with Me
