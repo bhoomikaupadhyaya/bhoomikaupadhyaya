@@ -14,7 +14,7 @@ Aspiring Software Engineer | Java | Full-Stack Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,html,css,aws,mysql,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,html,css,aws,postman"/>
 
 </p>
 
