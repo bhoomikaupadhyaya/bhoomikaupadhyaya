@@ -14,9 +14,13 @@ Aspiring Software Engineer | Java | Full-Stack Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,html,css,aws,mysql,mongodB,postman"/>
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,react,nodejs,express,mongodb,html,css,aws,mysql,postman" />
 
 </p>
+
+
+
 
 ---
 
