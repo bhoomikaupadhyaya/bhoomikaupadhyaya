@@ -4,7 +4,7 @@
 Aspiring Software Engineer | Java | Full-Stack Development
 </h3>
 
-<p align="center" ,color="red">
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Development;Passionate+about+learning+and+Innovation" />
 </p>
 
