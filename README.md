@@ -26,7 +26,13 @@ Aspiring Software Engineer | Java | Full-Stack Development
 
 
 
+<h2 align="center">🌐 Portfolio</h2>
 
+<p align="center">
+  <a href="https://bhoomikaupadhyaya.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-6C63FF?style=for-the-badge" />
+  </a>
+</p>
 
 
 
